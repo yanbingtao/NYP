@@ -1,0 +1,3 @@
+C:\Users\YAN\AppData\Local\Temporary Projects\equation  with two unknowns\obj\x86\Debug\equation__with_two_unknowns.Form1.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\equation  with two unknowns\obj\x86\Debug\equation__with_two_unknowns.Properties.Resources.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\equation  with two unknowns\obj\x86\Debug\equation  with two unknowns.csproj.GenerateResource.Cache

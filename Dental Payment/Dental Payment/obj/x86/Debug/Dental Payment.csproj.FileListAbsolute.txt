@@ -1,0 +1,9 @@
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\Dental_Payment.Form1.resources
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\Dental_Payment.Properties.Resources.resources
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\programming\Dental Payment\Dental Payment\bin\Debug\Dental Payment.exe
+F:\programming\Dental Payment\Dental Payment\bin\Debug\Dental Payment.pdb
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\Dental Payment.exe
+F:\programming\Dental Payment\Dental Payment\obj\x86\Debug\Dental Payment.pdb

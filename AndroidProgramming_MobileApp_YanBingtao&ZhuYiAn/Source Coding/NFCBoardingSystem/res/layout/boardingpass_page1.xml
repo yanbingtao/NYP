@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+
+<ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    
+    
+    <TextView
+        android:id="@+id/PersonalInfo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/personalinformation"
+        android:textSize="30sp"
+         />
+    
+    <TextView
+        android:id="@+id/PassengerName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PersonalInfo1"
+        android:layout_marginTop="1dp"
+        android:text="@string/passenger_name"
+        android:textSize="20sp"
+         />
+
+    <TextView
+        android:id="@+id/PassengerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/PassengerName1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+        />
+
+    <TextView
+        android:id="@+id/Passport_number1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/PassengerName"
+        android:text="@string/passport_number"
+        android:textSize="20sp"
+         />
+
+    <TextView
+        android:id="@+id/Passport_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Passport_number1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+
+    <TextView
+        android:id="@+id/Nationality1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Passport_number"
+        android:text="@string/nationality"
+        android:textSize="20sp"
+         />
+
+    <TextView
+        android:id="@+id/Nationality"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Nationality1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+        />
+
+    <TextView
+        android:id="@+id/Gender1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Nationality"
+        android:layout_marginTop="1dp"
+        android:text="@string/gender"
+        android:textSize="20sp"
+         />
+
+    <TextView
+        android:id="@+id/Gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Gender1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+
+    <TextView
+        android:id="@+id/ETNo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Gender"
+        android:layout_marginTop="1dp"
+        android:text="@string/et_no"
+        android:textSize="20sp"
+         />
+
+    <TextView
+        android:id="@+id/ETNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ETNo1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+
+   <TextView
+       android:id="@+id/FlightInfo1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_below="@+id/ETNo"
+       android:layout_marginTop="30dp"
+       android:text="@string/flight_information"
+       android:textSize="30sp"
+        />
+        
+    <TextView
+        android:id="@+id/FlightNo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FlightInfo1"
+        android:layout_marginTop="1dp"
+        android:text="@string/flight_number"
+        android:textSize="20sp"
+        />
+    
+    <TextView
+        android:id="@+id/FlightNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FlightNo1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+   
+    <TextView
+        android:id="@+id/From1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FlightNo"
+        android:layout_marginTop="1dp"
+        android:text="@string/from"
+        android:textSize="20sp"
+         />
+    
+    <TextView
+        android:id="@+id/From"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/From1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+        />
+    
+   <TextView
+       android:id="@+id/To1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/From"
+       android:layout_marginTop="1dp"
+       android:text="@string/to"
+       android:textSize="20sp" />
+    
+    <TextView
+        android:id="@+id/To"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/To1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+    
+    <TextView
+        android:id="@+id/SeatNo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/To"
+        android:layout_marginTop="1dp"
+        android:text="@string/seat_number"
+         android:textSize="20sp"/>
+    
+    <TextView
+        android:id="@+id/SeatNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/SeatNo1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+    
+     <TextView
+        android:id="@+id/BoardingInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/SeatNo"
+        android:layout_marginTop="30dp"
+        android:text="@string/boardinginfo"
+        android:textSize="30sp"
+         />
+    
+     <TextView
+         android:id="@+id/BoardingGate1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/BoardingInfo"
+         android:layout_marginTop="1dp"
+         android:text="@string/boardinggate"
+          android:textSize="20sp"/>
+    
+    <TextView
+        android:id="@+id/BoardingGate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BoardingGate1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+    
+   <TextView
+       android:id="@+id/BoardingTime1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/BoardingGate"
+       android:layout_marginTop="1dp"
+       android:text="@string/boardingtime"
+        android:textSize="20sp"/>
+    
+    <TextView
+        android:id="@+id/BoardingTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BoardingTime1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+    
+    <TextView
+        android:id="@+id/Date1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BoardingTime"
+        android:layout_marginTop="1dp"
+        android:text="@string/date"
+         android:textSize="20sp"/>
+    
+    <TextView
+        android:id="@+id/Date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Date1"
+        android:layout_marginTop="1dp"
+        android:text="@string/tap_to_read_information"
+         />
+        
+    <EditText
+            android:id="@+id/SpeechTextContant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Date"
+        	android:layout_marginTop="30dp"
+            android:layout_alignParentLeft="true"
+       		android:layout_alignParentRight="true"
+            android:ems="10" />
+    
+	<Button
+        android:id="@+id/btnSpeech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/SpeechTextContant"
+        android:layout_marginTop="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:onClick="SpeechContentOnClick"
+        android:text="@string/speech" />
+	
+	
+	
+	<TextView
+	    android:id="@+id/Address1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+		android:layout_below="@+id/btnSpeech"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:text="@string/current_address" 
+	    android:textSize="20sp"/>
+	
+	<TextView
+	    android:id="@+id/Address"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:layout_below="@+id/Address1"
+	    android:layout_marginTop="1dp"
+	    android:text="@string/addressinfo" />
+
+	<Button
+	    android:id="@+id/btnMap"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/Address"
+	    android:layout_marginTop="1dp"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentRight="true"
+	    android:text="@string/showmap" />
+	
+	<Button
+        android:id="@+id/button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMap"
+	    android:layout_marginTop="5dp"
+        android:text="@string/exit" />
+	
+</RelativeLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>

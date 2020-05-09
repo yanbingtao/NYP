@@ -1,0 +1,10 @@
+E:\programming\7 payment\7 payment\bin\Debug\7 payment.exe
+E:\programming\7 payment\7 payment\bin\Debug\7 payment.pdb
+E:\programming\7 payment\7 payment\obj\x86\Debug\payment.Form1.resources
+E:\programming\7 payment\7 payment\obj\x86\Debug\payment.Properties.Resources.resources
+E:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.csproj.GenerateResource.Cache
+E:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.exe
+E:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.pdb
+E:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.csprojResolveAssemblyReference.cache
+F:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.exe
+F:\programming\7 payment\7 payment\obj\x86\Debug\7 payment.pdb

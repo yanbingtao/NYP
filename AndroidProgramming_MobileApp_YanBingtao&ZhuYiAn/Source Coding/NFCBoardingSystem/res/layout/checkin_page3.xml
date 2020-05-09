@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+<ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+ <TextView
+       android:id="@+id/BoardingInfo1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/boarding_information_"
+       android:textSize="30sp"
+       />
+
+   <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BoardingInfo1"
+        android:layout_marginTop="20dp"
+        android:text="@string/textview" />
+   
+   <TextView
+       android:id="@+id/BoardingGate1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/textView1"
+       android:layout_marginTop="10dp"
+       android:text="@string/boarding_gate_"
+       android:textSize="20sp" />
+   
+    <EditText
+        android:id="@+id/BoardingGate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/BoardingGate1"
+        android:layout_marginTop="10dp"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/BoardingTime1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_below="@+id/BoardingGate"
+        android:layout_marginTop="10dp"
+        android:text="@string/boarding_time_hhmm_"
+        android:textSize="20sp" />
+    
+   <EditText
+        android:id="@+id/BoardingTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/BoardingTime1"
+        android:layout_marginTop="1dp"
+        android:ems="10"
+        android:maxLength="4"
+        android:inputType="time" />
+   
+   <TextView
+        android:id="@+id/Date1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BoardingTime"
+        android:layout_marginTop="10dp"
+        android:text="@string/date_ddmmyyyy_"
+        android:textSize="20sp" />
+    
+   
+    <EditText
+     android:id="@+id/Date"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+        android:layout_below="@+id/Date1"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+     android:inputType="date"
+             android:maxLength="8" />
+
+	 <Button
+	     android:id="@+id/button1"
+	     android:layout_width="match_parent"
+	     android:layout_height="wrap_content"
+	     android:layout_alignParentLeft="true"
+	     android:layout_below="@+id/Date"
+	     android:layout_marginTop="52dp"
+	     android:onClick="WritePassengerInfo"
+	     android:text="@string/confirm" />
+	 
+	 </RelativeLayout>
+
+
+    </ScrollView>
+    
+</RelativeLayout>

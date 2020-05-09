@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCBoardingSystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="personalinformation">Personal Information</string>
+    <string name="passenger_name">Passenger Name</string>
+    <string name="tap_to_read_information">Tap To Read Information</string>
+    <string name="passport_number">Passport Number</string>
+    <string name="nationality">Nationality</string>
+    <string name="gender">Gender</string>
+    <string name="et_no">E-ticket No</string>
+    <string name="flight_information">Flight Information</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="seat_number">Seat Number</string>
+    <string name="boardinggate">Boarding Gate</string>
+    <string name="boardingtime">Boarding Time</string>
+    <string name="date">Date</string>
+    <string name="speech">Speech</string>
+    <string name="exit">Exit</string>
+    <string name="current_address">Current Address</string>
+    <string name="addressinfo">Address Information</string>
+    <string name="showmap">Show Map</string>
+    <string name="nationality_">Nationality:</string>
+    <string name="gender_">Gender:</string>
+    <string name="et_no_">ET No.:</string>
+    <string name="passport_number_">Passport Number:</string>
+    <string name="passenger_name_">"Passenger Name: "</string>
+    <string name="next_page">Next Page</string>
+    <string name="flight_infomation_">Flight Information:</string>
+    <string name="textview">textview</string>
+    <string name="flight_number_">Flight Number:</string>
+    <string name="from_departure_airport_">From(Departure Airport):</string>
+    <string name="to_destination_airport_">To(Destination Airport):</string>
+    <string name="seat_number_">Seat Number:</string>
+    <string name="boardinginfo">Boarding Information:</string> 
+    <string name="boarding_information_">Boarding Information:</string>
+    <string name="boarding_gate_">Boarding Gate:</string>
+    <string name="boarding_time_hhmm_">Boarding Time(HHMM):</string>
+    <string name="date_ddmmyyyy_">Date(DDMMYYYY):</string>
+    <string name="confirm">Confirm</string>
+    <string name="authentication_required">Authentication Required</string>
+    <string name="username_">Username:</string>
+    <string name="password_">Password:</string>
+    <string name="attempts_left_">Attempts Left:</string>
+    <string name="login">Login</string>
+    <string name="it_s_time_for_boarding_">It is time for boarding!</string>
+    <string name="error">error</string>
+    <string name="this_language_is_not_supported">This Language is not supported</string>
+    <string name="initilization_failed_">Initilization Failed!</string>
+    <string name="provider_">"Provider "</string>
+    <string name="_has_been_selected_">" has been selected."</string>
+    <string name="address_not_available">Address not available</string>
+    <string name="would_you_like_to_set_an_alarm_">Would you like to set an alarm?</string>
+    <string name="please_remember_your_flight_time_do_not_miss_the_boarding_time_">Please remember your flight time! Do not miss the boarding time (:</string>
+    <string name="exit_the_app">Exit the page</string>
+    <string name="content_not_available">Content not available</string>
+    <string name="tag_detected_">Tag Detected!</string>
+    <string name="your_flight_number_is_">"Your Flight Number is "</string>
+    <string name="your_flight_is_from_">"Your Flight is from "</string>
+    <string name="_your_boarding_gate_is_">" Your Boarding Gate is "</string>
+    <string name="no_tag_detected_">No Tag Detected!</string>
+    <string name="tag_written_and_passenger_information_added_to_database_">Tag Written and Passenger information Added to Database!!</string>
+    <string name="tag_is_not_ndef_formatted_or_this_tag_is_ndef_">"Tag is not NDEF formatted or this tag is NDEF "</string>
+    <string name="formatted_but_under_a_vendor_specification_that_this_android_device_">"formatted but under a vendor specification that this Android device "</string>
+    <string name="does_not_implement_">does not implement.</string>
+    <string name="wrong_password_">Wrong Password!</string>
+    <string name="login_locked_">LOGIN LOCKED!!!</string>
+    <string name="welcome_back_">Welcome back!</string>
+    <string name="alarm_has_been_set_thank_you_">Alarm has been set! Thank You.</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    
+    <string-array name="spinner">
+	<item>Dial</item>
+ 	<item>Send SMS</item>
+ 	<item>Send Email</item>
+ 	</string-array>
+ 	
+ 	<string name="company_name_">Company Name:</string>
+ 	<string name="email_">Email:</string>
+ 	<string name="contact1"></string>
+ 	<string name="email1"></string>
+ 	<string name="name1"></string>
+ 	<string name="tel_">Tel:</string>
+ 	<string name="click_to_continue">Click To Continue</string>
+ 	<string name="add_data">Add Contact</string>
+ 	<string name="delete_data">Delete Contact</string>
+ 	<string name="please_select_one_option">Please select one option</string>
+ 	<string name="_call_send_sms_or_send_eamil_to_the_company_">(Call, Send SMS or Send Eamil to the company)</string>
+ 	
+ 	
+ 	
+ 	
+
+</resources>

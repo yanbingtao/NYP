@@ -1,0 +1,15 @@
+F:\Inventory\Inventory\Inventory\bin\Debug\Inventory.exe
+F:\Inventory\Inventory\Inventory\bin\Debug\Inventory.pdb
+F:\Inventory\Inventory\Inventory\obj\Debug\ResolveAssemblyReference.cache
+F:\Inventory\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+F:\Inventory\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+F:\Inventory\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+F:\Inventory\Inventory\Inventory\obj\Debug\Inventory.exe
+F:\Inventory\Inventory\Inventory\obj\Debug\Inventory.pdb
+E:\programming\4 Inventory\Inventory\Inventory\obj\Debug\Inventory.exe
+E:\programming\4 Inventory\Inventory\Inventory\obj\Debug\Inventory.pdb
+E:\programming\4 Inventory\Inventory\Inventory\bin\Debug\Inventory.exe
+E:\programming\4 Inventory\Inventory\Inventory\bin\Debug\Inventory.pdb
+E:\programming\4 Inventory\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+E:\programming\4 Inventory\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+E:\programming\4 Inventory\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache

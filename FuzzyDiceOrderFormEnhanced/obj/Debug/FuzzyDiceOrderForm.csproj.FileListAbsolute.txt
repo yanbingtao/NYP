@@ -1,0 +1,15 @@
+E:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.exe
+E:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\13 FuzzyDiceOrderFormEnhanced\bin\Debug\FuzzyDiceOrderForm.exe
+E:\programming\13 FuzzyDiceOrderFormEnhanced\bin\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.csprojResolveAssemblyReference.cache
+E:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+E:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.csproj.GenerateResource.Cache
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.exe
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.pdb
+G:\programming\13 FuzzyDiceOrderFormEnhanced\bin\Debug\FuzzyDiceOrderForm.exe
+G:\programming\13 FuzzyDiceOrderFormEnhanced\bin\Debug\FuzzyDiceOrderForm.pdb
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\ResolveAssemblyReference.cache
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\GenerateResource.read.1.tlog
+G:\programming\13 FuzzyDiceOrderFormEnhanced\obj\Debug\GenerateResource.write.1.tlog

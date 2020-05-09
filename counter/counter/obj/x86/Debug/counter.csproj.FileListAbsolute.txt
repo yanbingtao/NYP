@@ -1,0 +1,11 @@
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\bin\Debug\counter.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\bin\Debug\counter.pdb
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\obj\x86\Debug\counter.Form1.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\obj\x86\Debug\counter.Properties.Resources.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\obj\x86\Debug\counter.csproj.GenerateResource.Cache
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\obj\x86\Debug\counter.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\counter\obj\x86\Debug\counter.pdb
+E:\programming\counter\counter\obj\x86\Debug\counter.exe
+E:\programming\counter\counter\obj\x86\Debug\counter.pdb
+E:\programming\4 counter\counter\obj\x86\Debug\counter.exe
+E:\programming\4 counter\counter\obj\x86\Debug\counter.pdb

@@ -1,0 +1,11 @@
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\currency_converter.Form1.resources
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\currency_converter.Properties.Resources.resources
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\bin\Debug\currency converter.exe
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\bin\Debug\currency converter.pdb
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\currency converter.exe
+c:\users\137160x\documents\visual studio 2010\Projects\currency converter\currency converter\obj\x86\Debug\currency converter.pdb
+E:\programming\10 currency converter\currency converter\obj\x86\Debug\currency converter.exe
+E:\programming\10 currency converter\currency converter\obj\x86\Debug\currency converter.pdb

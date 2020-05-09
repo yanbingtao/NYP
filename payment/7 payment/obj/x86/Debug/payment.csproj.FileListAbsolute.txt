@@ -1,0 +1,7 @@
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\bin\Debug\payment.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\bin\Debug\payment.pdb
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\obj\x86\Debug\payment.Form1.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\obj\x86\Debug\payment.Properties.Resources.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\obj\x86\Debug\payment.csproj.GenerateResource.Cache
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\obj\x86\Debug\payment.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\payment\obj\x86\Debug\payment.pdb

@@ -1,0 +1,9 @@
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.wage.resources
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Properties.Resources.resources
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+c:\users\137160x\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb

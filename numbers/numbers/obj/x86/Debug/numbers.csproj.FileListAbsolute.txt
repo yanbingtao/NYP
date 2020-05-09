@@ -1,0 +1,7 @@
+E:\programming\numbers\numbers\bin\Debug\numbers.exe
+E:\programming\numbers\numbers\bin\Debug\numbers.pdb
+E:\programming\numbers\numbers\obj\x86\Debug\numbers.Form1.resources
+E:\programming\numbers\numbers\obj\x86\Debug\numbers.Properties.Resources.resources
+E:\programming\numbers\numbers\obj\x86\Debug\numbers.csproj.GenerateResource.Cache
+E:\programming\numbers\numbers\obj\x86\Debug\numbers.exe
+E:\programming\numbers\numbers\obj\x86\Debug\numbers.pdb

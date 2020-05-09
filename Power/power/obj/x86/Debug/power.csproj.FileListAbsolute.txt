@@ -1,0 +1,9 @@
+C:\Users\YAN\AppData\Local\Temporary Projects\power\bin\Debug\power.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\power\bin\Debug\power.pdb
+C:\Users\YAN\AppData\Local\Temporary Projects\power\obj\x86\Debug\power.Form1.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\power\obj\x86\Debug\power.Properties.Resources.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\power\obj\x86\Debug\power.csproj.GenerateResource.Cache
+C:\Users\YAN\AppData\Local\Temporary Projects\power\obj\x86\Debug\power.exe
+C:\Users\YAN\AppData\Local\Temporary Projects\power\obj\x86\Debug\power.pdb
+E:\programming\power\power\obj\x86\Debug\power.exe
+E:\programming\power\power\obj\x86\Debug\power.pdb

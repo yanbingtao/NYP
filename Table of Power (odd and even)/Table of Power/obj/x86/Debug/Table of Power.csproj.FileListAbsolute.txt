@@ -1,0 +1,16 @@
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\Table_of_Power.Form1.resources
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\Table_of_Power.Properties.Resources.resources
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\programming\Table of Power\Table of Power\bin\Debug\Table of Power.exe
+F:\programming\Table of Power\Table of Power\bin\Debug\Table of Power.pdb
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\Table of Power.exe
+F:\programming\Table of Power\Table of Power\obj\x86\Debug\Table of Power.pdb
+E:\programming\16 Table of Power (odd and even)\Table of Power\obj\x86\Debug\Table of Power.exe
+E:\programming\16 Table of Power (odd and even)\Table of Power\obj\x86\Debug\Table of Power.pdb
+E:\programming\16 Table of Power (odd and even)\Table of Power\bin\Debug\Table of Power.exe
+E:\programming\16 Table of Power (odd and even)\Table of Power\bin\Debug\Table of Power.pdb
+E:\programming\16 Table of Power (odd and even)\Table of Power\obj\x86\Debug\Table_of_Power.Form1.resources
+E:\programming\16 Table of Power (odd and even)\Table of Power\obj\x86\Debug\Table_of_Power.Properties.Resources.resources
+E:\programming\16 Table of Power (odd and even)\Table of Power\obj\x86\Debug\Table of Power.csproj.GenerateResource.Cache

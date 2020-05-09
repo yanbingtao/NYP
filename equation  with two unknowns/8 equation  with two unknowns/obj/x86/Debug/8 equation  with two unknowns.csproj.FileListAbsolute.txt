@@ -1,0 +1,7 @@
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\bin\Debug\8 equation  with two unknowns.exe
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\bin\Debug\8 equation  with two unknowns.pdb
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\obj\x86\Debug\equation__with_two_unknowns.Form1.resources
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\obj\x86\Debug\equation__with_two_unknowns.Properties.Resources.resources
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\obj\x86\Debug\8 equation  with two unknowns.csproj.GenerateResource.Cache
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\obj\x86\Debug\8 equation  with two unknowns.exe
+E:\programming\8 equation  with two unknowns\8 equation  with two unknowns\obj\x86\Debug\8 equation  with two unknowns.pdb

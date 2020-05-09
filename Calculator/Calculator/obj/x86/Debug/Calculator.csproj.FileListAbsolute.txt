@@ -1,0 +1,12 @@
+F:\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\programming\3 Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\programming\3 Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\programming\3 Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

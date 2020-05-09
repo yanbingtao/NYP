@@ -1,0 +1,38 @@
+F:\programming\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+F:\programming\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+F:\programming\FuzzyDiceOrderForm\obj\Debug\ResolveAssemblyReference.cache
+F:\programming\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+F:\programming\FuzzyDiceOrderForm\obj\Debug\ResGen.read.1.tlog
+F:\programming\FuzzyDiceOrderForm\obj\Debug\ResGen.write.1.tlog
+F:\programming\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+F:\programming\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\12 FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+E:\programming\12 FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\12 FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+E:\programming\12 FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\12 FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.csprojResolveAssemblyReference.cache
+E:\programming\12 FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+E:\programming\12 FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.csproj.GenerateResource.Cache
+E:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.exe
+E:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.exe
+E:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.pdb
+E:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.csprojResolveAssemblyReference.cache
+E:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+E:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.csproj.GenerateResource.Cache
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.exe
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.pdb
+G:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.exe
+G:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.pdb
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResolveAssemblyReference.cache
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResGen.read.1.tlog
+G:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResGen.write.1.tlog
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.exe
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.pdb
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResolveAssemblyReference.cache
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\FuzzyDiceOrderForm.FrmFuzzyDiceOrderForm.resources
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResGen.read.1.tlog
+F:\programming\12 FuzzyDiceOrderForm - BingTao\obj\Debug\ResGen.write.1.tlog
+F:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.exe
+F:\programming\12 FuzzyDiceOrderForm - BingTao\bin\Debug\FuzzyDiceOrderForm.pdb

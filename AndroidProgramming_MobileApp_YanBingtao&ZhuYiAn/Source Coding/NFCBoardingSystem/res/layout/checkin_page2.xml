@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+ <ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">   
+    
+      <TextView
+         android:id="@+id/FlightInfo"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:text="@string/flight_infomation_"
+         android:textSize="30sp"
+   />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FlightInfo"
+        android:layout_marginTop="10dp"
+        android:text="@string/textview" />
+
+    <TextView
+        android:id="@+id/FlightNumber1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="10dp"
+        android:text="@string/flight_number_"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/FlightNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/FlightNumber1"
+        android:layout_marginTop="10dp"
+        android:ems="10" />
+
+   <TextView
+        android:id="@+id/From1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FlightNumber"
+        android:layout_marginTop="10dp"
+        android:text="@string/from_departure_airport_" 
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/From"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/From1"
+        android:layout_marginTop="10dp"
+        android:ems="10" />
+    
+  <TextView
+        android:id="@+id/To1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/From"
+        android:layout_marginTop="10dp"
+        android:text="@string/to_destination_airport_" 
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/To"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/To1"
+        android:layout_marginTop="10dp"
+        android:ems="10" />
+  
+    <TextView
+        android:id="@+id/SeatNo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/To"
+        android:layout_marginTop="10dp"
+        android:text="@string/seat_number_" 
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/SeatNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/SeatNo1"
+        android:layout_marginTop="10dp"
+        android:ems="10" />
+
+	 <Button
+	     android:id="@+id/button1"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentRight="true"
+	     android:layout_below="@+id/SeatNo"
+	     android:layout_marginTop="80dp"
+	     android:text="@string/next_page" />
+
+	
+
+	   </RelativeLayout>
+
+
+    </ScrollView>
+</RelativeLayout>
