@@ -1,0 +1,11 @@
+C:\Users\YAN\AppData\Local\Temporary Projects\Project 1\obj\x86\Debug\Project_1.Project1.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\Project 1\obj\x86\Debug\Project_1.Properties.Resources.resources
+C:\Users\YAN\AppData\Local\Temporary Projects\Project 1\obj\x86\Debug\Project 1.csproj.GenerateResource.Cache
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project_1.Project1.resources
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project_1.Properties.Resources.resources
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project 1.csproj.GenerateResource.Cache
+E:\programming\Project 1\Project 1\bin\Debug\Project 1.exe
+E:\programming\Project 1\Project 1\bin\Debug\Project 1.pdb
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+E:\programming\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
